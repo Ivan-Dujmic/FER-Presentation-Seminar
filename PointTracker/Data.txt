@@ -1,0 +1,13 @@
+#FirstName MiddleName LastName... YYYY-MM-DD HH:MM
+# If you don't want to enter the date and time, leave it as '- -'
+
+# The table fill feature the students in the same order as here
+# I recommend writting them chronologically so it's easier to track which ones you've missed
+
+
+Pero Perovan Perić Petrić 1970-12-31 08:20
+Marko Markić - -
+Matija Matijić - -
+Brzi Brzovan - -
+Marta Martić - -
+Ana Anić - -
